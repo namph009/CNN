@@ -35,7 +35,7 @@ To get started with this project, follow the instructions below.
    - Imports necessary libraries.
    - Loads the dataset and performs data preprocessing.
    - Visualizes the correlation matrix of the dataset.
-   - Builds and tests a machine learning model using machine learning and deep learning algorithm.
+   - Builds and tests a model using machine learning and deep learning algorithm.
    - Evaluates the model's performance using various metrics.
 
 ## License
